@@ -1,1 +1,4 @@
 *.nc
+*.csv
+**/.ipynb_checkpoints
+**/.vscode

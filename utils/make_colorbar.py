@@ -9,8 +9,8 @@ cm_data = np.loadtxt("./bamako.txt")[::-1]
 bamako_map = LinearSegmentedColormap.from_list("bamako", cm_data, N=10)
 
 plt.rcParams.update({'font.size': 5})
-fig = plt.figure(figsize=(2.5,0.75))
-ax = fig.add_axes([0.05, 0.80, 0.9, 0.1])
+fig = plt.figure(figsize=(2.5,0.6))
+ax = fig.add_axes([0.05, 0.65, 0.9, 0.2])
 
 cb = mpl.colorbar.ColorbarBase(ax, orientation='horizontal', 
                                cmap=bamako_map,
@@ -19,4 +19,4 @@ cb = mpl.colorbar.ColorbarBase(ax, orientation='horizontal',
                                label='Fraction of total variance (%)',
                                ticks=[0, 20, 40, 60, 80, 100])
     
-plt.savefig('./colorbar.png', dpi=200)
+plt.savefig('.//data/figs/colorbar.png', dpi=200)

@@ -1,0 +1,8 @@
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/all_metrics_timesliced.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/avg_tas.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/dry_days.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/hot_days.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/max_pr.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/max_tasmax.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/tot_pr.nc
+https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/netcdf/wet_days.nc

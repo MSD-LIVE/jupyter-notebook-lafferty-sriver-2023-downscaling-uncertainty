@@ -1,3 +1,0 @@
-https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/simplemaps_worldcities_basicv1.76/license.txt
-https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/simplemaps_worldcities_basicv1.76/worldcities.csv
-https://mpctransfer.blob.core.windows.net/msd-live-lafferty-sriver/data/simplemaps_worldcities_basicv1.76/worldcities_subset.csv

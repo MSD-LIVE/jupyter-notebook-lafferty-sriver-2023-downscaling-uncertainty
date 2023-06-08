@@ -1,4 +1,5 @@
 *.nc
 *.csv
+*.txt
 **/.ipynb_checkpoints
 **/.vscode

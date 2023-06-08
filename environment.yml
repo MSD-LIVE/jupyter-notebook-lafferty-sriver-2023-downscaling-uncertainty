@@ -1,4 +1,4 @@
-name: mamba_hvplot_2023-05
+name: mamba_dashboard-env_2023-05
 channels:
   - defaults
 dependencies:

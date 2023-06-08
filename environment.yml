@@ -1,0 +1,16 @@
+name: mamba_hvplot_2023-05
+channels:
+  - defaults
+dependencies:
+  - hvplot
+  - geoviews
+  - datashader
+  - xarray
+  - pandas
+  - intake
+  - intake-xarray
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - jupyter_bokeh
+  - voila

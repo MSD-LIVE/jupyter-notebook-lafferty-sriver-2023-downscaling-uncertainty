@@ -20,6 +20,7 @@ jobs:
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 3: Build and push Docker image.  We get the github default variables for
       # repository owner (MSD-LIVE) and repository name (e.g., jupyter-notebook-statemodify)

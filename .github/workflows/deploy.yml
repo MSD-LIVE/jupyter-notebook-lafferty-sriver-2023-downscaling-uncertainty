@@ -6,7 +6,7 @@ on:
       - main
       - dev
   repository_dispatch:
-    types: [trigger-build-dev, trigger-build-latest]
+    types: [trigger-panel-build-dev, trigger-panel-build-latest]
 
 
 permissions:
